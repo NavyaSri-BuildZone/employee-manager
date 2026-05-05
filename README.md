@@ -17,3 +17,6 @@ This project is a simple Employee Management System built using Vue.js and MockA
 
 ## Author
 Navya Sri
+## Running commands
+npm install
+npm run dev
